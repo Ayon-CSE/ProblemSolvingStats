@@ -98,18 +98,18 @@
   </thead>
   <tbody>
     <tr><td><img src="https://www.google.com/s2/favicons?domain=uhunt.onlinejudge.org&sz=16" width="16" height="16" onerror="this.style.display='none'"/> <strong>UVa</strong></td><td align="right" data-date="2026-01-30">30 January 2026</td></tr>
-    <tr><td><img src="https://www.google.com/s2/favicons?domain=atcoder.jp&sz=16" width="16" height="16" onerror="this.style.display='none'"/> <strong>AtCoder</strong></td><td align="right" data-date="1970-01-01">01 January 1970</td></tr>
-    <tr><td><img src="https://www.google.com/s2/favicons?domain=cses.fi&sz=16" width="16" height="16" onerror="this.style.display='none'"/> <strong>CSES</strong></td><td align="right" data-date="1970-01-01">01 January 1970</td></tr>
-    <tr><td><img src="https://www.google.com/s2/favicons?domain=www.codechef.com&sz=16" width="16" height="16" onerror="this.style.display='none'"/> <strong>CodeChef</strong></td><td align="right" data-date="1970-01-01">01 January 1970</td></tr>
-    <tr><td><img src="https://www.google.com/s2/favicons?domain=codeforces.com&sz=16" width="16" height="16" onerror="this.style.display='none'"/> <strong>Codeforces</strong></td><td align="right" data-date="1970-01-01">01 January 1970</td></tr>
-    <tr><td><img src="https://www.google.com/s2/favicons?domain=www.hackerearth.com&sz=16" width="16" height="16" onerror="this.style.display='none'"/> <strong>HackerEarth</strong></td><td align="right" data-date="1970-01-01">01 January 1970</td></tr>
-    <tr><td><img src="https://www.google.com/s2/favicons?domain=www.hackerrank.com&sz=16" width="16" height="16" onerror="this.style.display='none'"/> <strong>HackerRank</strong></td><td align="right" data-date="1970-01-01">01 January 1970</td></tr>
-    <tr><td><img src="https://www.google.com/s2/favicons?domain=open.kattis.com&sz=16" width="16" height="16" onerror="this.style.display='none'"/> <strong>Kattis</strong></td><td align="right" data-date="1970-01-01">01 January 1970</td></tr>
-    <tr><td><img src="https://www.google.com/s2/favicons?domain=leetcode.com&sz=16" width="16" height="16" onerror="this.style.display='none'"/> <strong>LeetCode</strong></td><td align="right" data-date="1970-01-01">01 January 1970</td></tr>
-    <tr><td><img src="https://www.google.com/s2/favicons?domain=lightoj.com&sz=16" width="16" height="16" onerror="this.style.display='none'"/> <strong>LightOJ</strong></td><td align="right" data-date="1970-01-01">01 January 1970</td></tr>
-    <tr><td><img src="https://www.google.com/s2/favicons?domain=www.spoj.com&sz=16" width="16" height="16" onerror="this.style.display='none'"/> <strong>SPOJ</strong></td><td align="right" data-date="1970-01-01">01 January 1970</td></tr>
-    <tr><td><img src="https://www.google.com/s2/favicons?domain=toph.co&sz=16" width="16" height="16" onerror="this.style.display='none'"/> <strong>Toph</strong></td><td align="right" data-date="1970-01-01">01 January 1970</td></tr>
-    <tr><td><img src="https://www.google.com/s2/favicons?domain=vjudge.net&sz=16" width="16" height="16" onerror="this.style.display='none'"/> <strong>VJudge</strong></td><td align="right" data-date="1970-01-01">01 January 1970</td></tr>
+    <tr><td><img src="https://www.google.com/s2/favicons?domain=atcoder.jp&sz=16" width="16" height="16" onerror="this.style.display='none'"/> <strong>AtCoder</strong></td><td align="right" data-date="2026-01-01">01 January 2026</td></tr>
+    <tr><td><img src="https://www.google.com/s2/favicons?domain=cses.fi&sz=16" width="16" height="16" onerror="this.style.display='none'"/> <strong>CSES</strong></td><td align="right" data-date="2026-01-01">01 January 2026</td></tr>
+    <tr><td><img src="https://www.google.com/s2/favicons?domain=www.codechef.com&sz=16" width="16" height="16" onerror="this.style.display='none'"/> <strong>CodeChef</strong></td><td align="right" data-date="2026-01-01">01 January 2026</td></tr>
+    <tr><td><img src="https://www.google.com/s2/favicons?domain=codeforces.com&sz=16" width="16" height="16" onerror="this.style.display='none'"/> <strong>Codeforces</strong></td><td align="right" data-date="2026-01-01">01 January 2026</td></tr>
+    <tr><td><img src="https://www.google.com/s2/favicons?domain=www.hackerearth.com&sz=16" width="16" height="16" onerror="this.style.display='none'"/> <strong>HackerEarth</strong></td><td align="right" data-date="2026-01-01">01 January 2026</td></tr>
+    <tr><td><img src="https://www.google.com/s2/favicons?domain=www.hackerrank.com&sz=16" width="16" height="16" onerror="this.style.display='none'"/> <strong>HackerRank</strong></td><td align="right" data-date="2026-01-01">01 January 2026</td></tr>
+    <tr><td><img src="https://www.google.com/s2/favicons?domain=open.kattis.com&sz=16" width="16" height="16" onerror="this.style.display='none'"/> <strong>Kattis</strong></td><td align="right" data-date="2026-01-01">01 January 2026</td></tr>
+    <tr><td><img src="https://www.google.com/s2/favicons?domain=leetcode.com&sz=16" width="16" height="16" onerror="this.style.display='none'"/> <strong>LeetCode</strong></td><td align="right" data-date="2026-01-01">01 January 2026</td></tr>
+    <tr><td><img src="https://www.google.com/s2/favicons?domain=lightoj.com&sz=16" width="16" height="16" onerror="this.style.display='none'"/> <strong>LightOJ</strong></td><td align="right" data-date="2026-01-01">01 January 2026</td></tr>
+    <tr><td><img src="https://www.google.com/s2/favicons?domain=www.spoj.com&sz=16" width="16" height="16" onerror="this.style.display='none'"/> <strong>SPOJ</strong></td><td align="right" data-date="2026-01-01">01 January 2026</td></tr>
+    <tr><td><img src="https://www.google.com/s2/favicons?domain=toph.co&sz=16" width="16" height="16" onerror="this.style.display='none'"/> <strong>Toph</strong></td><td align="right" data-date="2026-01-01">01 January 2026</td></tr>
+    <tr><td><img src="https://www.google.com/s2/favicons?domain=vjudge.net&sz=16" width="16" height="16" onerror="this.style.display='none'"/> <strong>VJudge</strong></td><td align="right" data-date="2026-01-01">01 January 2026</td></tr>
   </tbody>
 </table>
 
