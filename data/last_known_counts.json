@@ -8,7 +8,11 @@
     "UVa": 0,
     "LightOJ": 30,
     "VJudge": 279,
-    "HackerEarth": 10
+    "HackerEarth": 10,
+    "CSES": 208,
+    "HackerRank": 300,
+    "Kattis": 50,
+    "SPOJ": 100
   },
   "dates": {
     "LeetCode": "2026-01-30",
@@ -19,7 +23,11 @@
     "UVa": "2026-01-30",
     "LightOJ": "2026-01-30",
     "VJudge": "2026-01-30",
-    "HackerEarth": "2026-01-30"
+    "HackerEarth": "2026-01-30",
+    "CSES": "2026-01-30",
+    "HackerRank": "2026-01-30",
+    "Kattis": "2026-01-30",
+    "SPOJ": "2026-01-30"
   },
   "modes": {
     "LeetCode": "automatic",
@@ -30,7 +38,11 @@
     "UVa": "automatic",
     "LightOJ": "automatic",
     "VJudge": "automatic",
-    "HackerEarth": "automatic"
+    "HackerEarth": "automatic",
+    "CSES": "manual",
+    "HackerRank": "manual",
+    "Kattis": "manual",
+    "SPOJ": "manual"
   },
   "last_solved_dates": {
     "LeetCode": "1970-01-01",
@@ -38,10 +50,14 @@
     "Codeforces": "1970-01-01",
     "AtCoder": "1970-01-01",
     "CodeChef": "1970-01-01",
-    "UVa": "1970-01-01",
+    "UVa": "2026-01-30",
     "LightOJ": "1970-01-01",
     "VJudge": "1970-01-01",
-    "HackerEarth": "1970-01-01"
+    "HackerEarth": "1970-01-01",
+    "CSES": "1970-01-01",
+    "HackerRank": "1970-01-01",
+    "Kattis": "1970-01-01",
+    "SPOJ": "1970-01-01"
   },
   "usernames": {
     "Codeforces": "Ayon",
