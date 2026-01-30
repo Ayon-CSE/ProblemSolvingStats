@@ -187,7 +187,7 @@ Verify: `python --version`
 
 ### 4️⃣ **Fork the Repository**
 **🌐 In your web browser:**
-- Go to [MishkatIT/ProblemSolvingStats](https://github.com/MishkatIT/ProblemSolvingStats)
+- Go to [Ayon-CSE/ProblemSolvingStats](https://github.com/Ayon-CSE/ProblemSolvingStats)
 - Click **"Fork"** button (top right corner)
 
 ### 5️⃣ **Clone Your Fork**
@@ -258,7 +258,7 @@ git push origin main
 
 | Step | Action | Command/Description |
 |:----:|:------|:-------------------|
-| **1** | 🍴 **Fork Repository** | Visit [MishkatIT/ProblemSolvingStats](https://github.com/MishkatIT/ProblemSolvingStats) and click **Fork** |
+| **1** | 🍴 **Fork Repository** | Visit [Ayon-CSE/ProblemSolvingStats](https://github.com/Ayon-CSE/ProblemSolvingStats) and click **Fork** |
 | **2** | 📦 **Clone Your Fork** | `git clone https://github.com/YOUR_USERNAME/ProblemSolvingStats.git`<br>`cd ProblemSolvingStats`<br>💡 **Run in terminal/command prompt** |
 | **3** | 🖥️ **Windows Users** | 1. Run `spark.bat`<br>2. If first time: Select option to install requirements<br>3. Follow the menu to configure usernames and test setup<br>4. **Push to GitHub:** `git add . && git commit -m "Configure usernames" && git push origin main`<br>5. Done! Everything is automated from here |
 | **4** | 📥 **Install Dependencies** | `pip install -r requirements.txt` |
@@ -312,8 +312,8 @@ For Windows users, we've created a convenient batch file that handles everything
 
 **⭐ If you found this project helpful, please consider giving it a star!**
 
-[![GitHub](https://img.shields.io/badge/GitHub-MishkatIT-181717?style=for-the-badge&logo=github)](https://github.com/MishkatIT)
-[![Profile Views](https://komarev.com/ghpvc/?username=MishkatIT&style=for-the-badge&color=brightgreen)](https://github.com/MishkatIT)
+[![GitHub](https://img.shields.io/badge/GitHub-Ayon-CSE-181717?style=for-the-badge&logo=github)](https://github.com/Ayon-CSE)
+[![Profile Views](https://komarev.com/ghpvc/?username=Ayon-CSE&style=for-the-badge&color=brightgreen)](https://github.com/Ayon-CSE)
 
 </div>
 
@@ -321,7 +321,7 @@ For Windows users, we've created a convenient batch file that handles everything
 
 <div align="center">
 
-**Made with ❤️ by [Md Mishkatul Islam](https://codeforces.com/profile/MishkatIT)**
+**Made with ❤️ by [Ayon Das Gupta](https://codeforces.com/profile/Ayon)**
 
 </div>
 
