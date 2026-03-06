@@ -1,8 +1,8 @@
 {
   "counts": {
-    "LeetCode": 89,
+    "LeetCode": 90,
     "Toph": 8,
-    "Codeforces": 1642,
+    "Codeforces": 1646,
     "AtCoder": 154,
     "CodeChef": 152,
     "UVa": 0,
@@ -17,13 +17,13 @@
   "dates": {
     "LeetCode": "2026-03-06",
     "Toph": "2026-03-06",
-    "Codeforces": "2026-03-04",
+    "Codeforces": "2026-03-06",
     "AtCoder": "2026-03-06",
     "CodeChef": "2026-03-06",
     "UVa": "2026-03-06",
     "LightOJ": "2026-03-06",
     "VJudge": "2026-03-06",
-    "HackerEarth": "2026-03-01",
+    "HackerEarth": "2026-03-06",
     "CSES": "2026-01-30",
     "HackerRank": "2026-01-30",
     "Kattis": "2026-01-30",
@@ -47,7 +47,7 @@
   "last_solved_dates": {
     "LeetCode": "2026-03-06",
     "Toph": "1970-01-01",
-    "Codeforces": "2026-03-04",
+    "Codeforces": "2026-03-06",
     "AtCoder": "2026-02-28",
     "CodeChef": "1970-01-01",
     "UVa": "2026-01-30",
