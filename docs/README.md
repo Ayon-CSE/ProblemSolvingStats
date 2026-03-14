@@ -7,32 +7,32 @@
 <!-- AUTO_GENERATED_SECTION_END: BANNER -->
 
 <!-- DYNAMIC_BADGES_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-13%20March%202026-77FF77?style=for-the-badge)
-![Total Problems](https://img.shields.io/badge/Total%20Solved-3066-77FF77?style=for-the-badge)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-14%20March%202026-77FF77?style=for-the-badge)
+![Total Problems](https://img.shields.io/badge/Total%20Solved-2915-77FF77?style=for-the-badge)
 ![Platforms](https://img.shields.io/badge/Platforms-12-77FF77?style=for-the-badge)
 <!-- DYNAMIC_BADGES_END -->
 
 <!-- UPDATE_METADATA_START -->
-<p align="center"><sub><strong>Updated:</strong> 13 March 2026 at 11:09:42 PM • Automatic</sub></p>
+<p align="center"><sub><strong>Updated:</strong> 14 March 2026 at 10:59:56 PM • Automatic</sub></p>
 <!-- UPDATE_METADATA_END -->
 
 <!-- AUTO_GENERATED_SECTION_START: STATS_TABLE -->
 | 🎯 Platform | 👤 Profile | ✅ Solved | 📈 Progress | 📅 Updated On | 🔄 Mode |
 |:-------------|:------------:|:-----------:|:-------------|---------------:|:----------:|
-| <img src="https://www.google.com/s2/favicons?domain=codeforces.com&sz=16" width="16" height="16"/> **Codeforces** | [Ayon](https://codeforces.com/profile/Ayon) | **1651** | ![Progress](https://img.shields.io/badge/Progress-53.8%25-AA0000?style=flat-square) | 13 March 2026 | ![Automatic](https://img.shields.io/badge/Automatic-2E7D32?style=flat) |
-| <img src="https://www.google.com/s2/favicons?domain=www.hackerrank.com&sz=16" width="16" height="16"/> **HackerRank** | [Ayon_Coder](https://www.hackerrank.com/profile/Ayon_Coder) | **300** | ![Progress](https://img.shields.io/badge/Progress-9.8%25-FF3333?style=flat-square) | 30 January 2026 | ![Manual](https://img.shields.io/badge/Manual-E65100?style=flat) |
-| <img src="https://www.google.com/s2/favicons?domain=vjudge.net&sz=16" width="16" height="16"/> **VJudge** | [AyonCoder](https://vjudge.net/user/AyonCoder) | **293** | ![Progress](https://img.shields.io/badge/Progress-9.6%25-FF7777?style=flat-square) | 13 March 2026 | ![Automatic](https://img.shields.io/badge/Automatic-2E7D32?style=flat) |
-| <img src="https://www.google.com/s2/favicons?domain=cses.fi&sz=16" width="16" height="16"/> **CSES** | [AyonCoder](https://cses.fi/user/AyonCoder/) | **208** | ![Progress](https://img.shields.io/badge/Progress-6.8%25-FFBB55?style=flat-square) | 30 January 2026 | ![Manual](https://img.shields.io/badge/Manual-E65100?style=flat) |
-| <img src="https://www.google.com/s2/favicons?domain=atcoder.jp&sz=16" width="16" height="16"/> **AtCoder** | [AyonCoder](https://atcoder.jp/users/AyonCoder) | **154** | ![Progress](https://img.shields.io/badge/Progress-5.0%25-FFCC88?style=flat-square) | 13 March 2026 | ![Automatic](https://img.shields.io/badge/Automatic-2E7D32?style=flat) |
-| <img src="https://www.google.com/s2/favicons?domain=www.codechef.com&sz=16" width="16" height="16"/> **CodeChef** | [ayoncoder](https://www.codechef.com/users/ayoncoder) | **152** | ![Progress](https://img.shields.io/badge/Progress-5.0%25-FF88FF?style=flat-square) | 13 March 2026 | ![Automatic](https://img.shields.io/badge/Automatic-2E7D32?style=flat) |
-| <img src="https://www.google.com/s2/favicons?domain=leetcode.com&sz=16" width="16" height="16"/> **LeetCode** | [AyonCoder](https://leetcode.com/u/AyonCoder/) | **109** | ![Progress](https://img.shields.io/badge/Progress-3.6%25-D499FF?style=flat-square) | 13 March 2026 | ![Automatic](https://img.shields.io/badge/Automatic-2E7D32?style=flat) |
-| <img src="https://www.google.com/s2/favicons?domain=www.spoj.com&sz=16" width="16" height="16"/> **SPOJ** | [ayoncoder](https://www.spoj.com/users/ayoncoder) | **100** | ![Progress](https://img.shields.io/badge/Progress-3.3%25-AAAAFF?style=flat-square) | 30 January 2026 | ![Manual](https://img.shields.io/badge/Manual-E65100?style=flat) |
-| <img src="https://www.google.com/s2/favicons?domain=open.kattis.com&sz=16" width="16" height="16"/> **Kattis** | [ayon-das-gupta](https://open.kattis.com/users/ayon-das-gupta) | **50** | ![Progress](https://img.shields.io/badge/Progress-1.6%25-90C3DD?style=flat-square) | 30 January 2026 | ![Manual](https://img.shields.io/badge/Manual-E65100?style=flat) |
-| <img src="https://www.google.com/s2/favicons?domain=lightoj.com&sz=16" width="16" height="16"/> **LightOJ** | [user-3nze5xd](https://lightoj.com/user/user-3nze5xd) | **31** | ![Progress](https://img.shields.io/badge/Progress-1.0%25-77DDBB?style=flat-square) | 13 March 2026 | ![Automatic](https://img.shields.io/badge/Automatic-2E7D32?style=flat) |
+| <img src="https://www.google.com/s2/favicons?domain=codeforces.com&sz=16" width="16" height="16"/> **Codeforces** | [Ayon](https://codeforces.com/profile/Ayon) | **1500** | ![Progress](https://img.shields.io/badge/Progress-51.5%25-AA0000?style=flat-square) | 14 March 2026 | ![Automatic](https://img.shields.io/badge/Automatic-2E7D32?style=flat) |
+| <img src="https://www.google.com/s2/favicons?domain=www.hackerrank.com&sz=16" width="16" height="16"/> **HackerRank** | [Ayon_Coder](https://www.hackerrank.com/profile/Ayon_Coder) | **300** | ![Progress](https://img.shields.io/badge/Progress-10.3%25-FF3333?style=flat-square) | 30 January 2026 | ![Manual](https://img.shields.io/badge/Manual-E65100?style=flat) |
+| <img src="https://www.google.com/s2/favicons?domain=vjudge.net&sz=16" width="16" height="16"/> **VJudge** | [AyonCoder](https://vjudge.net/user/AyonCoder) | **293** | ![Progress](https://img.shields.io/badge/Progress-10.1%25-FF7777?style=flat-square) | 13 March 2026 | ![Automatic](https://img.shields.io/badge/Automatic-2E7D32?style=flat) |
+| <img src="https://www.google.com/s2/favicons?domain=cses.fi&sz=16" width="16" height="16"/> **CSES** | [AyonCoder](https://cses.fi/user/AyonCoder/) | **208** | ![Progress](https://img.shields.io/badge/Progress-7.1%25-FFBB55?style=flat-square) | 30 January 2026 | ![Manual](https://img.shields.io/badge/Manual-E65100?style=flat) |
+| <img src="https://www.google.com/s2/favicons?domain=atcoder.jp&sz=16" width="16" height="16"/> **AtCoder** | [AyonCoder](https://atcoder.jp/users/AyonCoder) | **154** | ![Progress](https://img.shields.io/badge/Progress-5.3%25-FFCC88?style=flat-square) | 14 March 2026 | ![Automatic](https://img.shields.io/badge/Automatic-2E7D32?style=flat) |
+| <img src="https://www.google.com/s2/favicons?domain=www.codechef.com&sz=16" width="16" height="16"/> **CodeChef** | [ayoncoder](https://www.codechef.com/users/ayoncoder) | **152** | ![Progress](https://img.shields.io/badge/Progress-5.2%25-FF88FF?style=flat-square) | 14 March 2026 | ![Automatic](https://img.shields.io/badge/Automatic-2E7D32?style=flat) |
+| <img src="https://www.google.com/s2/favicons?domain=leetcode.com&sz=16" width="16" height="16"/> **LeetCode** | [AyonCoder](https://leetcode.com/u/AyonCoder/) | **109** | ![Progress](https://img.shields.io/badge/Progress-3.7%25-D499FF?style=flat-square) | 14 March 2026 | ![Automatic](https://img.shields.io/badge/Automatic-2E7D32?style=flat) |
+| <img src="https://www.google.com/s2/favicons?domain=www.spoj.com&sz=16" width="16" height="16"/> **SPOJ** | [ayoncoder](https://www.spoj.com/users/ayoncoder) | **100** | ![Progress](https://img.shields.io/badge/Progress-3.4%25-AAAAFF?style=flat-square) | 30 January 2026 | ![Manual](https://img.shields.io/badge/Manual-E65100?style=flat) |
+| <img src="https://www.google.com/s2/favicons?domain=open.kattis.com&sz=16" width="16" height="16"/> **Kattis** | [ayon-das-gupta](https://open.kattis.com/users/ayon-das-gupta) | **50** | ![Progress](https://img.shields.io/badge/Progress-1.7%25-90C3DD?style=flat-square) | 30 January 2026 | ![Manual](https://img.shields.io/badge/Manual-E65100?style=flat) |
+| <img src="https://www.google.com/s2/favicons?domain=lightoj.com&sz=16" width="16" height="16"/> **LightOJ** | [user-3nze5xd](https://lightoj.com/user/user-3nze5xd) | **31** | ![Progress](https://img.shields.io/badge/Progress-1.1%25-77DDBB?style=flat-square) | 14 March 2026 | ![Automatic](https://img.shields.io/badge/Automatic-2E7D32?style=flat) |
 | <img src="https://www.google.com/s2/favicons?domain=www.hackerearth.com&sz=16" width="16" height="16"/> **HackerEarth** | [dasguptaayon55](https://www.hackerearth.com/@dasguptaayon55/) | **10** | ![Progress](https://img.shields.io/badge/Progress-0.3%25-77EE99?style=flat-square) | 13 March 2026 | ![Automatic](https://img.shields.io/badge/Automatic-2E7D32?style=flat) |
-| <img src="https://www.google.com/s2/favicons?domain=toph.co&sz=16" width="16" height="16"/> **Toph** | [Ayon_Coder](https://toph.co/u/Ayon_Coder) | **8** | ![Progress](https://img.shields.io/badge/Progress-0.3%25-77FF77?style=flat-square) | 11 March 2026 | ![Automatic](https://img.shields.io/badge/Automatic-2E7D32?style=flat) |
-| <img src="https://www.google.com/s2/favicons?domain=uhunt.onlinejudge.org&sz=16" width="16" height="16"/> **UVa** | [AyonCoder](https://uhunt.onlinejudge.org/id/AyonCoder) | **0** | ![Progress](https://img.shields.io/badge/Progress-0.0%25-CCCCCC?style=flat-square) | 13 March 2026 | ![Automatic](https://img.shields.io/badge/Automatic-2E7D32?style=flat) |
-| 🎖️ **TOTAL** | | **3066** | **100%** | 13 March 2026 | |
+| <img src="https://www.google.com/s2/favicons?domain=toph.co&sz=16" width="16" height="16"/> **Toph** | [Ayon_Coder](https://toph.co/u/Ayon_Coder) | **8** | ![Progress](https://img.shields.io/badge/Progress-0.3%25-77FF77?style=flat-square) | 14 March 2026 | ![Automatic](https://img.shields.io/badge/Automatic-2E7D32?style=flat) |
+| <img src="https://www.google.com/s2/favicons?domain=uhunt.onlinejudge.org&sz=16" width="16" height="16"/> **UVa** | [AyonCoder](https://uhunt.onlinejudge.org/id/AyonCoder) | **0** | ![Progress](https://img.shields.io/badge/Progress-0.0%25-CCCCCC?style=flat-square) | 14 March 2026 | ![Automatic](https://img.shields.io/badge/Automatic-2E7D32?style=flat) |
+| 🎖️ **TOTAL** | | **2915** | **100%** | 14 March 2026 | |
 
 ---
 
@@ -46,7 +46,7 @@
 | 🥇 Top Platform | 🎯 Main Focus | 📚 Platforms Active |
 |:---------------:|:-------------:|:------------------:|
 | **Codeforces** | **Competitive Programming** | **12** |
-| 1651 Problems | Algorithm Mastery | Multi-Platform |
+| 1500 Problems | Algorithm Mastery | Multi-Platform |
 
 </div>
 <!-- AUTO_GENERATED_SECTION_END: KEY_HIGHLIGHTS -->
@@ -122,9 +122,9 @@
 
 <!-- AUTO_GENERATED_SECTION_START: PHILOSOPHICAL_STATUS -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Active%20Today-brightgreen?style=flat-square" alt="Active Badge">
+  <img src="https://img.shields.io/badge/Active%201%20day%20ago-green?style=flat-square" alt="Active Badge">
   <br>
-  Solving problems today - the mind stays sharp through consistent practice.
+  Active just yesterday - maintaining momentum in the coding journey.
 </p>
 <!-- AUTO_GENERATED_SECTION_END: PHILOSOPHICAL_STATUS -->
 
