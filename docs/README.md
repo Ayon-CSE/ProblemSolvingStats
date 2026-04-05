@@ -7,32 +7,32 @@
 <!-- AUTO_GENERATED_SECTION_END: BANNER -->
 
 <!-- DYNAMIC_BADGES_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-04%20April%202026-77FF77?style=for-the-badge)
-![Total Problems](https://img.shields.io/badge/Total%20Solved-3104-77FF77?style=for-the-badge)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-05%20April%202026-77FF77?style=for-the-badge)
+![Total Problems](https://img.shields.io/badge/Total%20Solved-3106-77FF77?style=for-the-badge)
 ![Platforms](https://img.shields.io/badge/Platforms-12-77FF77?style=for-the-badge)
 <!-- DYNAMIC_BADGES_END -->
 
 <!-- UPDATE_METADATA_START -->
-<p align="center"><sub><strong>Updated:</strong> 04 April 2026 at 11:03:57 PM • Automatic</sub></p>
+<p align="center"><sub><strong>Updated:</strong> 05 April 2026 at 11:04:57 PM • Automatic</sub></p>
 <!-- UPDATE_METADATA_END -->
 
 <!-- AUTO_GENERATED_SECTION_START: STATS_TABLE -->
 | 🎯 Platform | 👤 Profile | ✅ Solved | 📈 Progress | 📅 Updated On | 🔄 Mode |
 |:-------------|:------------:|:-----------:|:-------------|---------------:|:----------:|
-| <img src="https://www.google.com/s2/favicons?domain=codeforces.com&sz=16" width="16" height="16"/> **Codeforces** | [Ayon](https://codeforces.com/profile/Ayon) | **1678** | ![Progress](https://img.shields.io/badge/Progress-54.1%25-AA0000?style=flat-square) | 04 April 2026 | ![Automatic](https://img.shields.io/badge/Automatic-2E7D32?style=flat) |
+| <img src="https://www.google.com/s2/favicons?domain=codeforces.com&sz=16" width="16" height="16"/> **Codeforces** | [Ayon](https://codeforces.com/profile/Ayon) | **1678** | ![Progress](https://img.shields.io/badge/Progress-54.0%25-AA0000?style=flat-square) | 05 April 2026 | ![Automatic](https://img.shields.io/badge/Automatic-2E7D32?style=flat) |
 | <img src="https://www.google.com/s2/favicons?domain=www.hackerrank.com&sz=16" width="16" height="16"/> **HackerRank** | [Ayon_Coder](https://www.hackerrank.com/profile/Ayon_Coder) | **300** | ![Progress](https://img.shields.io/badge/Progress-9.7%25-FF3333?style=flat-square) | 30 January 2026 | ![Manual](https://img.shields.io/badge/Manual-E65100?style=flat) |
-| <img src="https://www.google.com/s2/favicons?domain=vjudge.net&sz=16" width="16" height="16"/> **VJudge** | [AyonCoder](https://vjudge.net/user/AyonCoder) | **294** | ![Progress](https://img.shields.io/badge/Progress-9.5%25-FF7777?style=flat-square) | 03 April 2026 | ![Automatic](https://img.shields.io/badge/Automatic-2E7D32?style=flat) |
+| <img src="https://www.google.com/s2/favicons?domain=vjudge.net&sz=16" width="16" height="16"/> **VJudge** | [AyonCoder](https://vjudge.net/user/AyonCoder) | **294** | ![Progress](https://img.shields.io/badge/Progress-9.5%25-FF7777?style=flat-square) | 05 April 2026 | ![Automatic](https://img.shields.io/badge/Automatic-2E7D32?style=flat) |
 | <img src="https://www.google.com/s2/favicons?domain=cses.fi&sz=16" width="16" height="16"/> **CSES** | [AyonCoder](https://cses.fi/user/AyonCoder/) | **208** | ![Progress](https://img.shields.io/badge/Progress-6.7%25-FFBB55?style=flat-square) | 30 January 2026 | ![Manual](https://img.shields.io/badge/Manual-E65100?style=flat) |
-| <img src="https://www.google.com/s2/favicons?domain=atcoder.jp&sz=16" width="16" height="16"/> **AtCoder** | [AyonCoder](https://atcoder.jp/users/AyonCoder) | **155** | ![Progress](https://img.shields.io/badge/Progress-5.0%25-FFCC88?style=flat-square) | 04 April 2026 | ![Automatic](https://img.shields.io/badge/Automatic-2E7D32?style=flat) |
-| <img src="https://www.google.com/s2/favicons?domain=www.codechef.com&sz=16" width="16" height="16"/> **CodeChef** | [ayoncoder](https://www.codechef.com/users/ayoncoder) | **152** | ![Progress](https://img.shields.io/badge/Progress-4.9%25-FF88FF?style=flat-square) | 04 April 2026 | ![Automatic](https://img.shields.io/badge/Automatic-2E7D32?style=flat) |
-| <img src="https://www.google.com/s2/favicons?domain=leetcode.com&sz=16" width="16" height="16"/> **LeetCode** | [AyonCoder](https://leetcode.com/u/AyonCoder/) | **118** | ![Progress](https://img.shields.io/badge/Progress-3.8%25-D499FF?style=flat-square) | 04 April 2026 | ![Automatic](https://img.shields.io/badge/Automatic-2E7D32?style=flat) |
+| <img src="https://www.google.com/s2/favicons?domain=atcoder.jp&sz=16" width="16" height="16"/> **AtCoder** | [AyonCoder](https://atcoder.jp/users/AyonCoder) | **155** | ![Progress](https://img.shields.io/badge/Progress-5.0%25-FFCC88?style=flat-square) | 05 April 2026 | ![Automatic](https://img.shields.io/badge/Automatic-2E7D32?style=flat) |
+| <img src="https://www.google.com/s2/favicons?domain=www.codechef.com&sz=16" width="16" height="16"/> **CodeChef** | [ayoncoder](https://www.codechef.com/users/ayoncoder) | **152** | ![Progress](https://img.shields.io/badge/Progress-4.9%25-FF88FF?style=flat-square) | 05 April 2026 | ![Automatic](https://img.shields.io/badge/Automatic-2E7D32?style=flat) |
+| <img src="https://www.google.com/s2/favicons?domain=leetcode.com&sz=16" width="16" height="16"/> **LeetCode** | [AyonCoder](https://leetcode.com/u/AyonCoder/) | **120** | ![Progress](https://img.shields.io/badge/Progress-3.9%25-D499FF?style=flat-square) | 05 April 2026 | ![Automatic](https://img.shields.io/badge/Automatic-2E7D32?style=flat) |
 | <img src="https://www.google.com/s2/favicons?domain=www.spoj.com&sz=16" width="16" height="16"/> **SPOJ** | [ayoncoder](https://www.spoj.com/users/ayoncoder) | **100** | ![Progress](https://img.shields.io/badge/Progress-3.2%25-AAAAFF?style=flat-square) | 30 January 2026 | ![Manual](https://img.shields.io/badge/Manual-E65100?style=flat) |
 | <img src="https://www.google.com/s2/favicons?domain=open.kattis.com&sz=16" width="16" height="16"/> **Kattis** | [ayon-das-gupta](https://open.kattis.com/users/ayon-das-gupta) | **50** | ![Progress](https://img.shields.io/badge/Progress-1.6%25-90C3DD?style=flat-square) | 30 January 2026 | ![Manual](https://img.shields.io/badge/Manual-E65100?style=flat) |
-| <img src="https://www.google.com/s2/favicons?domain=lightoj.com&sz=16" width="16" height="16"/> **LightOJ** | [user-3nze5xd](https://lightoj.com/user/user-3nze5xd) | **31** | ![Progress](https://img.shields.io/badge/Progress-1.0%25-77DDBB?style=flat-square) | 04 April 2026 | ![Automatic](https://img.shields.io/badge/Automatic-2E7D32?style=flat) |
+| <img src="https://www.google.com/s2/favicons?domain=lightoj.com&sz=16" width="16" height="16"/> **LightOJ** | [user-3nze5xd](https://lightoj.com/user/user-3nze5xd) | **31** | ![Progress](https://img.shields.io/badge/Progress-1.0%25-77DDBB?style=flat-square) | 05 April 2026 | ![Automatic](https://img.shields.io/badge/Automatic-2E7D32?style=flat) |
 | <img src="https://www.google.com/s2/favicons?domain=www.hackerearth.com&sz=16" width="16" height="16"/> **HackerEarth** | [dasguptaayon55](https://www.hackerearth.com/@dasguptaayon55/) | **10** | ![Progress](https://img.shields.io/badge/Progress-0.3%25-77EE99?style=flat-square) | 04 April 2026 | ![Automatic](https://img.shields.io/badge/Automatic-2E7D32?style=flat) |
-| <img src="https://www.google.com/s2/favicons?domain=toph.co&sz=16" width="16" height="16"/> **Toph** | [Ayon_Coder](https://toph.co/u/Ayon_Coder) | **8** | ![Progress](https://img.shields.io/badge/Progress-0.3%25-77FF77?style=flat-square) | 04 April 2026 | ![Automatic](https://img.shields.io/badge/Automatic-2E7D32?style=flat) |
-| <img src="https://www.google.com/s2/favicons?domain=uhunt.onlinejudge.org&sz=16" width="16" height="16"/> **UVa** | [AyonCoder](https://uhunt.onlinejudge.org/id/AyonCoder) | **0** | ![Progress](https://img.shields.io/badge/Progress-0.0%25-CCCCCC?style=flat-square) | 04 April 2026 | ![Automatic](https://img.shields.io/badge/Automatic-2E7D32?style=flat) |
-| 🎖️ **TOTAL** | | **3104** | **100%** | 04 April 2026 | |
+| <img src="https://www.google.com/s2/favicons?domain=toph.co&sz=16" width="16" height="16"/> **Toph** | [Ayon_Coder](https://toph.co/u/Ayon_Coder) | **8** | ![Progress](https://img.shields.io/badge/Progress-0.3%25-77FF77?style=flat-square) | 05 April 2026 | ![Automatic](https://img.shields.io/badge/Automatic-2E7D32?style=flat) |
+| <img src="https://www.google.com/s2/favicons?domain=uhunt.onlinejudge.org&sz=16" width="16" height="16"/> **UVa** | [AyonCoder](https://uhunt.onlinejudge.org/id/AyonCoder) | **0** | ![Progress](https://img.shields.io/badge/Progress-0.0%25-CCCCCC?style=flat-square) | 05 April 2026 | ![Automatic](https://img.shields.io/badge/Automatic-2E7D32?style=flat) |
+| 🎖️ **TOTAL** | | **3106** | **100%** | 05 April 2026 | |
 
 ---
 
@@ -65,9 +65,9 @@
 <!-- AUTO_GENERATED_SECTION_START: LATEST_SOLVE -->
 <div align="center">
 
-| 📅 Last Solved | 🏆 Platforms |
+| 📅 Last Solved | 🏆 Platform |
 |:-------------:|:-------------:|
-| **04 April 2026** | **Codeforces** and **LeetCode** |
+| **05 April 2026** | **LeetCode** |
 
 </div>
 
@@ -97,8 +97,8 @@
     </tr>
   </thead>
   <tbody>
+    <tr><td><img src="https://www.google.com/s2/favicons?domain=leetcode.com&sz=16" width="16" height="16" onerror="this.style.display='none'"/> <strong>LeetCode</strong></td><td align="right" data-date="2026-04-05">05 April 2026</td></tr>
     <tr><td><img src="https://www.google.com/s2/favicons?domain=codeforces.com&sz=16" width="16" height="16" onerror="this.style.display='none'"/> <strong>Codeforces</strong></td><td align="right" data-date="2026-04-04">04 April 2026</td></tr>
-    <tr><td><img src="https://www.google.com/s2/favicons?domain=leetcode.com&sz=16" width="16" height="16" onerror="this.style.display='none'"/> <strong>LeetCode</strong></td><td align="right" data-date="2026-04-04">04 April 2026</td></tr>
     <tr><td><img src="https://www.google.com/s2/favicons?domain=vjudge.net&sz=16" width="16" height="16" onerror="this.style.display='none'"/> <strong>VJudge</strong></td><td align="right" data-date="2026-04-03">03 April 2026</td></tr>
     <tr><td><img src="https://www.google.com/s2/favicons?domain=atcoder.jp&sz=16" width="16" height="16" onerror="this.style.display='none'"/> <strong>AtCoder</strong></td><td align="right" data-date="2026-03-27">27 March 2026</td></tr>
     <tr><td><img src="https://www.google.com/s2/favicons?domain=lightoj.com&sz=16" width="16" height="16" onerror="this.style.display='none'"/> <strong>LightOJ</strong></td><td align="right" data-date="2026-02-22">22 February 2026</td></tr>
