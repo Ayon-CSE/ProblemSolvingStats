@@ -8,18 +8,18 @@
 
 <!-- DYNAMIC_BADGES_START -->
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-30%20April%202026-77FF77?style=for-the-badge)
-![Total Problems](https://img.shields.io/badge/Total%20Solved-3150-77FF77?style=for-the-badge)
+![Total Problems](https://img.shields.io/badge/Total%20Solved-3154-77FF77?style=for-the-badge)
 ![Platforms](https://img.shields.io/badge/Platforms-12-77FF77?style=for-the-badge)
 <!-- DYNAMIC_BADGES_END -->
 
 <!-- UPDATE_METADATA_START -->
-<p align="center"><sub><strong>Updated:</strong> 30 April 2026 at 12:02:23 AM • Automatic</sub></p>
+<p align="center"><sub><strong>Updated:</strong> 30 April 2026 at 11:53:22 PM • Automatic</sub></p>
 <!-- UPDATE_METADATA_END -->
 
 <!-- AUTO_GENERATED_SECTION_START: STATS_TABLE -->
 | 🎯 Platform | 👤 Profile | ✅ Solved | 📈 Progress | 📅 Updated On | 🔄 Mode |
 |:-------------|:------------:|:-----------:|:-------------|---------------:|:----------:|
-| <img src="https://www.google.com/s2/favicons?domain=codeforces.com&sz=16" width="16" height="16"/> **Codeforces** | [Ayon](https://codeforces.com/profile/Ayon) | **1715** | ![Progress](https://img.shields.io/badge/Progress-54.4%25-AA0000?style=flat-square) | 30 April 2026 | ![Automatic](https://img.shields.io/badge/Automatic-2E7D32?style=flat) |
+| <img src="https://www.google.com/s2/favicons?domain=codeforces.com&sz=16" width="16" height="16"/> **Codeforces** | [Ayon](https://codeforces.com/profile/Ayon) | **1719** | ![Progress](https://img.shields.io/badge/Progress-54.5%25-AA0000?style=flat-square) | 30 April 2026 | ![Automatic](https://img.shields.io/badge/Automatic-2E7D32?style=flat) |
 | <img src="https://www.google.com/s2/favicons?domain=www.hackerrank.com&sz=16" width="16" height="16"/> **HackerRank** | [Ayon_Coder](https://www.hackerrank.com/profile/Ayon_Coder) | **300** | ![Progress](https://img.shields.io/badge/Progress-9.5%25-FF3333?style=flat-square) | 30 January 2026 | ![Manual](https://img.shields.io/badge/Manual-E65100?style=flat) |
 | <img src="https://www.google.com/s2/favicons?domain=vjudge.net&sz=16" width="16" height="16"/> **VJudge** | [AyonCoder](https://vjudge.net/user/AyonCoder) | **295** | ![Progress](https://img.shields.io/badge/Progress-9.4%25-FF7777?style=flat-square) | 30 April 2026 | ![Automatic](https://img.shields.io/badge/Automatic-2E7D32?style=flat) |
 | <img src="https://www.google.com/s2/favicons?domain=cses.fi&sz=16" width="16" height="16"/> **CSES** | [AyonCoder](https://cses.fi/user/AyonCoder/) | **208** | ![Progress](https://img.shields.io/badge/Progress-6.6%25-FFBB55?style=flat-square) | 30 January 2026 | ![Manual](https://img.shields.io/badge/Manual-E65100?style=flat) |
@@ -32,7 +32,7 @@
 | <img src="https://www.google.com/s2/favicons?domain=www.hackerearth.com&sz=16" width="16" height="16"/> **HackerEarth** | [dasguptaayon55](https://www.hackerearth.com/@dasguptaayon55/) | **10** | ![Progress](https://img.shields.io/badge/Progress-0.3%25-77EE99?style=flat-square) | 23 April 2026 | ![Automatic](https://img.shields.io/badge/Automatic-2E7D32?style=flat) |
 | <img src="https://www.google.com/s2/favicons?domain=toph.co&sz=16" width="16" height="16"/> **Toph** | [Ayon_Coder](https://toph.co/u/Ayon_Coder) | **8** | ![Progress](https://img.shields.io/badge/Progress-0.3%25-77FF77?style=flat-square) | 30 April 2026 | ![Automatic](https://img.shields.io/badge/Automatic-2E7D32?style=flat) |
 | <img src="https://www.google.com/s2/favicons?domain=uhunt.onlinejudge.org&sz=16" width="16" height="16"/> **UVa** | [AyonCoder](https://uhunt.onlinejudge.org/id/AyonCoder) | **0** | ![Progress](https://img.shields.io/badge/Progress-0.0%25-CCCCCC?style=flat-square) | 30 April 2026 | ![Automatic](https://img.shields.io/badge/Automatic-2E7D32?style=flat) |
-| 🎖️ **TOTAL** | | **3150** | **100%** | 30 April 2026 | |
+| 🎖️ **TOTAL** | | **3154** | **100%** | 30 April 2026 | |
 
 ---
 
@@ -46,7 +46,7 @@
 | 🥇 Top Platform | 🎯 Main Focus | 📚 Platforms Active |
 |:---------------:|:-------------:|:------------------:|
 | **Codeforces** | **Competitive Programming** | **12** |
-| 1715 Problems | Algorithm Mastery | Multi-Platform |
+| 1719 Problems | Algorithm Mastery | Multi-Platform |
 
 </div>
 <!-- AUTO_GENERATED_SECTION_END: KEY_HIGHLIGHTS -->
