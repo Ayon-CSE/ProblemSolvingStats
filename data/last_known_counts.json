@@ -2,7 +2,7 @@
   "counts": {
     "LeetCode": 132,
     "Toph": 8,
-    "Codeforces": 1753,
+    "Codeforces": 1756,
     "AtCoder": 155,
     "CodeChef": 152,
     "UVa": 0,
@@ -23,7 +23,7 @@
     "UVa": "2026-05-23",
     "LightOJ": "2026-05-23",
     "VJudge": "2026-05-16",
-    "HackerEarth": "2026-05-22",
+    "HackerEarth": "2026-05-23",
     "CSES": "2026-01-30",
     "HackerRank": "2026-01-30",
     "Kattis": "2026-01-30",
@@ -76,7 +76,7 @@
   },
   "ratings": {
     "Codeforces": {
-      "current": 1098,
+      "current": 1104,
       "max": 1291,
       "rank": "newbie",
       "max_rank": "pupil"
