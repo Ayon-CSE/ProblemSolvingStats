@@ -15,13 +15,13 @@
     "SPOJ": 100
   },
   "dates": {
-    "LeetCode": "2026-08-24",
+    "LeetCode": "2026-08-25",
     "Toph": "2026-08-24",
-    "Codeforces": "2026-08-24",
-    "AtCoder": "2026-08-24",
-    "CodeChef": "2026-08-24",
-    "UVa": "2026-08-24",
-    "LightOJ": "2026-08-24",
+    "Codeforces": "2026-08-25",
+    "AtCoder": "2026-08-25",
+    "CodeChef": "2026-08-25",
+    "UVa": "2026-08-25",
+    "LightOJ": "2026-08-25",
     "VJudge": "2026-05-16",
     "HackerEarth": "2026-08-22",
     "CSES": "2026-01-30",
@@ -76,7 +76,7 @@
   },
   "ratings": {
     "Codeforces": {
-      "current": 1045,
+      "current": 1047,
       "max": 1291,
       "rank": "newbie",
       "max_rank": "pupil"
